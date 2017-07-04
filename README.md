@@ -5,13 +5,15 @@
 
 <b>Opis:</b> LzzyBird to gra, którą napisałem podążając za tutorialem znajdującym się pod adresem: https://goo.gl/8j7bBr<br/><br/>
 
-<b>Pliki projektu:</b><br/>
+<b>Skrypty gry:</b><br/>
 
-<b>main.cpp</b> - plik uruchomieniowy aplikacji<br/>
-<b>steve.cpp</b> - główny plik aplikacji zawierający ciała funkcji oraz ustawienia GUI<br/>
-<b>steve.hpp</b> - plik nagłówkowy dołączający biblioteki, deklarację zmiennych i funkcji<br/>
-<b>body.hpp</b> - plik nagłówkowy określający współrzędne punktów elementów szkieletu postaci <br/>
-<b>resources.qrc</b> - plik zasobów określający ścieżki do plików używanych przez aplikację<br/></br>
+<b>BirdMovement.cs</b> - plik uruchomieniowy aplikacji<br/>
+<b>GroundMover.cs</b> - główny plik aplikacji zawierający ciała funkcji oraz ustawienia GUI<br/>
+<b>BGLooper.cs</b> - plik nagłówkowy dołączający biblioteki, deklarację zmiennych i funkcji<br/>
+<b>CameraTracksPlayer.cs</b> - plik nagłówkowy określający współrzędne punktów elementów szkieletu postaci <br/>
+<b>Score.cs</b> - plik nagłówkowy określający współrzędne punktów elementów szkieletu postaci <br/>
+<b>Scorepoint.cs</b> - plik nagłówkowy określający współrzędne punktów elementów szkieletu postaci <br/>
+<b>StartScreenScript.cs</b> - plik zasobów określający ścieżki do plików używanych przez aplikację<br/></br>
 
 <b>Screenshot:</b><br/>
 
