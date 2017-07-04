@@ -1,9 +1,9 @@
-<b>Nazwa projektu:</b> Model postaci 3D - Steve z gry Minecraft <br/>
-<b>Język programowania:</b> C++ <br/>
-<b>Biblioteka graficzna:</b> Qt <br/>
+<b>Nazwa projektu:</b> LzzyBird - klon gry Flappy Bird <br/>
+<b>Język programowania:</b> C# <br/>
+<b>Silnik graficzny:</b> Unity <br/>
 <b>Autor:</b> Kamiiru8<br/><br/>
 
-<b>Opis:</b> Projekt jest podsumowaniem zdobytych umiejętności z zajęć „Laboratorium Grafiki i Multimediów”, które odbywały się na drugim roku studiów na kierunku Informatyka.<br/><br/>
+<b>Opis:</b> LzzyBird to gra, którą napisałem podążając za tutorialem znajdującym się pod adresem: https://goo.gl/8j7bBr<br/><br/>
 
 <b>Pliki projektu:</b><br/>
 
