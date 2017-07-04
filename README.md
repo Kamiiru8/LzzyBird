@@ -1,7 +1,7 @@
 <b>Nazwa projektu:</b> LzzyBird - klon gry Flappy Bird <br/>
 <b>Język programowania:</b> C# <br/>
 <b>Silnik graficzny:</b> Unity <br/>
-<b>Autor:</b> Kamiiru8<br/><br/>
+<b>Autor:</b> quill18 (Kamiiru8)<br/><br/>
 
 <b>Opis:</b> LzzyBird to gra, którą napisałem podążając za tutorialem znajdującym się pod adresem: https://goo.gl/8j7bBr<br/><br/>
 
