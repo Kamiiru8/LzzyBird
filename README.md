@@ -7,17 +7,17 @@
 
 <b>Skrypty gry:</b><br/>
 
-<b>BirdMovement.cs</b> - plik uruchomieniowy aplikacji<br/>
-<b>GroundMover.cs</b> - główny plik aplikacji zawierający ciała funkcji oraz ustawienia GUI<br/>
-<b>BGLooper.cs</b> - plik nagłówkowy dołączający biblioteki, deklarację zmiennych i funkcji<br/>
-<b>CameraTracksPlayer.cs</b> - plik nagłówkowy określający współrzędne punktów elementów szkieletu postaci <br/>
-<b>Score.cs</b> - plik nagłówkowy określający współrzędne punktów elementów szkieletu postaci <br/>
-<b>Scorepoint.cs</b> - plik nagłówkowy określający współrzędne punktów elementów szkieletu postaci <br/>
-<b>StartScreenScript.cs</b> - plik zasobów określający ścieżki do plików używanych przez aplikację<br/></br>
+<b>BirdMovement.cs</b> - skrypt odpowiadający za ruch postaci<br/>
+<b>GroundMover.cs</b> - ruch podłoża <br/>
+<b>BGLooper.cs</b> - ruch tła<br/>
+<b>CameraTracksPlayer.cs</b> - ruch kamery podążającej za postacią<br/>
+<b>Score.cs</b> - zliczanie punktów<br/>
+<b>Scorepoint.cs</b> - sprawdzanie czy może być dodany punkt<br/>
+<b>StartScreenScript.cs</b> - obsługa ekranu startowego<br/></br>
 
 <b>Screenshot:</b><br/>
 
-<img width="987" alt="steve" src="https://user-images.githubusercontent.com/29763402/27771396-f6da87a2-5f4d-11e7-9baa-88bcbeadc329.png"><br/><br/>
+<img width="958" alt="zrzut ekranu 2017-07-04 o 19 40 32" src="https://user-images.githubusercontent.com/29763402/27839356-e4c7f2c6-60f0-11e7-83b9-beba5ead3d30.png">
 
 <b>Link do gry w wersji Web:</b><br/>
 http://lzzybird.co.nf/
