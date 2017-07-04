@@ -19,5 +19,5 @@
 
 <img width="958" alt="zrzut ekranu 2017-07-04 o 19 40 32" src="https://user-images.githubusercontent.com/29763402/27839356-e4c7f2c6-60f0-11e7-83b9-beba5ead3d30.png"><br/>
 
-<b>Link do gry w wersji Web:</b><br/>
+<b>Link do gry w wersji Web:</b><br/><br/>
 http://lzzybird.co.nf/
