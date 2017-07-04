@@ -19,5 +19,5 @@
 
 <img width="987" alt="steve" src="https://user-images.githubusercontent.com/29763402/27771396-f6da87a2-5f4d-11e7-9baa-88bcbeadc329.png"><br/><br/>
 
-<b>Link do wideoprezentacji:</b><br/>
-https://youtu.be/UIBzj7DBd2k
+<b>Link do gry w wersji Web:</b><br/>
+http://lzzybird.co.nf/
